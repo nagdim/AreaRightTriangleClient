@@ -1,0 +1,11 @@
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\bin\Debug\AreaRightTriangleClient.exe.config
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\bin\Debug\AreaRightTriangleClient.exe
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\bin\Debug\AreaRightTriangleClient.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.csprojResolveAssemblyReference.cache
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.Properties.Resources.resources
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.csproj.GenerateResource.Cache
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.exe
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\bin\Debug\TriangleLogic.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\bin\Debug\TriangleLogic.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\AreaRightTriangleClient\obj\Debug\AreaRightTriangleClient.Form1.resources

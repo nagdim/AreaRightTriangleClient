@@ -1,0 +1,10 @@
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\obj\Debug\TriangleLogicTest.csprojResolveAssemblyReference.cache
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\TriangleLogicTest.dll.config
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\TriangleLogicTest.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\TriangleLogicTest.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\nunit.framework.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\TriangleLogic.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\TriangleLogic.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\bin\Debug\nunit.framework.xml
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\obj\Debug\TriangleLogicTest.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogicTest\obj\Debug\TriangleLogicTest.pdb

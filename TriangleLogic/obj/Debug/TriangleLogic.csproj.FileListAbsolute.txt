@@ -1,0 +1,5 @@
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogic\bin\Debug\TriangleLogic.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogic\bin\Debug\TriangleLogic.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogic\obj\Debug\TriangleLogic.dll
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogic\obj\Debug\TriangleLogic.pdb
+c:\users\nagdim\documents\visual studio 2013\Projects\AreaRightTriangleClient\TriangleLogic\obj\Debug\TriangleLogic.csprojResolveAssemblyReference.cache
